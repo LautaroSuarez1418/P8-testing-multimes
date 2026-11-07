@@ -1,0 +1,2 @@
+[NbConvertApp] Converting notebook Lautaro-637_WF_testing_multimes_grupoB_bucle_10102.ipynb to notebook
+[NbConvertApp] Writing 657415 bytes to Lautaro-637_WF_testing_multimes_grupoB_bucle_10102.ipynb
