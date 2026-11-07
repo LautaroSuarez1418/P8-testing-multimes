@@ -1,0 +1,5 @@
+grupo	B
+experimento	20102
+semilla_primigenia	631861
+notebook	
+empaquetado	2026-11-06 11:59 UTC

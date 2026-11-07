@@ -1,0 +1,5 @@
+grupo	B
+experimento	20104
+semilla_primigenia	932227
+notebook	P8_WF_Testing_2meses_GrupoB.ipynb
+empaquetado	2026-11-06 12:00 UTC

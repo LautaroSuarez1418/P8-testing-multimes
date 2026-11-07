@@ -1,0 +1,2 @@
+[NbConvertApp] Converting notebook P8_WF_Testing_2meses_GrupoB.ipynb to notebook
+[NbConvertApp] Writing 574781 bytes to P8_WF_Testing_2meses_GrupoB.ipynb
