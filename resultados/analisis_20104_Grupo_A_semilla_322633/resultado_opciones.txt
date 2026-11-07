@@ -1,2 +1,0 @@
-opcion	meses_test	auc_bo
-A2	2	0.935678142652505
